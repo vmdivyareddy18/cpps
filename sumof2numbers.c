@@ -7,6 +7,6 @@ int main()
     printf("Enter the second number: ");
     scanf("%d", &y);
     sum = x + y;
-    printf("The sum of %d and %d is %d\n", x, y, sum);
+    printf("sum of 2 numbers: %d\n", sum);
     return 0;
 }
