@@ -1,0 +1,2 @@
+Commit 06
+This file was added to create commit 6.
