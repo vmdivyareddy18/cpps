@@ -1,0 +1,2 @@
+Commit 02
+This file was added to create commit 2.
